@@ -15,19 +15,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" /> About Me
 
 ```typescript
-const RAFAEL = {
+ RAFAEL = {
     role: "Senior .NET Software Engineer",
     location: "Poland",
-    currentFocus: [".NET 8", "Backend", "APIs", "Azure"],
-    languages: ["C#", "SQL"]
+    currentFocus: [".NET 8", "Backend", "Golang", "Azure"],
+    languages: ["C#", "Go", "SQL"]
 };
 ```
 
 <div align="center">
-  
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="25" /> Current Status
-  
-   **Learning**: Blockchain Architecture & Web3
+    
+   **Learning**: Blockchain Architecture, Web3, Go
    **Working on**: Web3 Applications, cloud services
    **Goals**: Contributing to the decentralized ecosystem  
    **Ask me about**: .NET, Software architecture, Backend
