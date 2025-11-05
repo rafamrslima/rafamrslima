@@ -18,8 +18,8 @@
  RAFAEL = {
     role: "Senior .NET Software Engineer",
     location: "Poland",
-    currentFocus: [".NET 8", "Backend", "Golang", "Azure"],
-    languages: ["C#", "Go", "SQL"]
+    currentFocus: ["Ethereum, Backend, Web3],
+    languages: ["C#", "Go", "Solidity", "SQL"]
 };
 ```
 
@@ -28,7 +28,6 @@
    **Learning**: Blockchain Architecture, Web3, Go
    **Working on**: Web3 Applications, cloud services
    **Goals**: Contributing to the decentralized ecosystem  
-   **Ask me about**: .NET, Software architecture, Backend
   
 </div>
 
@@ -41,7 +40,6 @@
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Databases & Tools
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
