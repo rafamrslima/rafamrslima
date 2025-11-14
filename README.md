@@ -1,12 +1,12 @@
 <div align="center">
 
-# Welcome to Rafael Lima's Profile
+# Rafael De Moraes Lima
 
 </div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;.NET+%26+C%23+Enthusiast;Backend+Developer;Web3+Explorer)
+ ## Senior Backend Engineer
     
 </div>
 
